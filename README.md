@@ -9,6 +9,13 @@ Tecnologias
 <img src="https://img.icons8.com/?size=100&id=11686&format=png&color=4d4d4d" height="25"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br />
 <img src="https://img.icons8.com/?size=100&id=11686&format=png&color=4d4d4d" height="25"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br />
 
+
+Siga-me no Linkedin e vamos compartilhar experiências
+
+<a href="https://www.linkedin.com/in/marlon-silveira/" target="_blank"><img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Linkedin.svg" height="35"/><a />
+
+
+
 <!--
 **marlonsilveiradev/marlonsilveiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
