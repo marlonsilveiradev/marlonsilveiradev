@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Me chamo Marlon, sou um progrmador Front-End em constante evolução. Vou postando parte dos meus projetos e atualizando conforme tenha novidades.
+Me chamo Marlon, sou um programador Front-End em constante evolução. Vou postando parte dos meus projetos e atualizando conforme tenha novidades.
 
 Tecnologias
 
