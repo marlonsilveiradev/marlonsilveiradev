@@ -16,6 +16,8 @@ Siga-me no Linkedin e vamos compartilhar experiências
 <br />
 <br />
 ![Marlon stats](https://github-readme-stats.vercel.app/api?username=marlonsilveiradev&show_icons=true&theme=dark)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsilveiradev&stats_format=bytes)
 
 
 
