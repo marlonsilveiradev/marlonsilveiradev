@@ -16,7 +16,7 @@ Siga-me no Linkedin e vamos compartilhar experiências
 <a href="https://www.linkedin.com/in/marlon-silveira/" target="_blank"><img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Light/Linkedin.svg" height="35"/><a />
 <br />
 <br />
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=marlonsilveiradev)
+![Marlon Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=marlonsilveiradev)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonsilveiradev&stats_format=bytes)
 
