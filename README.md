@@ -41,11 +41,35 @@ Atualmente desenvolvendo projetos completos, aplicando boas práticas de arquite
 
 ## 📌 Projetos em destaque
 
-### 🔹 BG Representações API
-API REST completa com autenticação JWT, arquitetura em camadas e foco em segurança.
+### 🔹 BG Representações (Sistema Completo)
 
-🔗 https://bgrepresentacoes-api-production.up.railway.app/api/v1  
-📄 Documentação: https://bgrepresentacoes-api-production.up.railway.app/api-docs/  
+Sistema fullstack para gestão de clientes, vendas e operações comerciais.
+
+🔗 Frontend:  
+https://marlonsilveiradev.github.io/bgrepresentacoes-web  
+
+🔗 Backend (API):  
+https://bgrepresentacoes-api-production.up.railway.app/api/v1  
+
+📄 Documentação da API:  
+https://bgrepresentacoes-api-production.up.railway.app/api-docs/  
+
+---
+
+### 🧠 Tecnologias aplicadas
+
+- React (Frontend)
+- Node.js + Express (Backend)
+- PostgreSQL + Sequelize
+- Autenticação JWT
+- Arquitetura em camadas (Service Layer)
+- Boas práticas de segurança (Helmet, Rate Limit, Sanitização)
+
+---
+
+### 🚧 Status
+
+Projeto em desenvolvimento, com diversas funcionalidades já implementadas e integradas entre frontend e backend.
 
 ---
 
